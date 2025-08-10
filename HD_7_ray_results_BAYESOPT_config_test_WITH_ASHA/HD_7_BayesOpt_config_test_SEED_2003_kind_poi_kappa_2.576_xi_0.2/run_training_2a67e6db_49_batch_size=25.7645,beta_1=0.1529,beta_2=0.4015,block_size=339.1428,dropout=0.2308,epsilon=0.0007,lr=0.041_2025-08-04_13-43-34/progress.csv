@@ -1,0 +1,2 @@
+loss,train_loss,iter,actual n_embd,timestamp,checkpoint_dir_name,should_checkpoint,done,training_iteration,trial_id,date,time_this_iter_s,time_total_s,pid,hostname,node_ip,time_since_restore,iterations_since_restore
+2.7472055184841158,2.745466445684433,500,288,1754311431,checkpoint_000000,True,True,1,2a67e6db,2025-08-04_13-43-51,15.719806432723999,15.719806432723999,2966098,hazel,134.226.38.6,15.719806432723999,1
